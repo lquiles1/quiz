@@ -1,0 +1,45 @@
+
+.nav-list{
+    display: flex;
+    justify-content: end;
+    list-style: none;
+}
+.nav-item{
+    margin-right: 2rem;
+    color: purple;
+    
+}
+
+.nav-item:first-child{
+    margin-right: auto;
+}
+
+.instuctions{
+    margin-top: 100px;
+    text-align: center;
+   
+}
+
+.instuctions h5{
+  font-size: 18px;
+}
+
+.btn{
+    background-color: purple;
+    height: 30px;
+    width: 125px;
+    border-radius: 5px;
+    margin: 15px;
+    border: none;
+    color: white;
+    
+ 
+   
+}
+.answers{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
